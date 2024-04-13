@@ -10,7 +10,7 @@ bim, construcción, colombia, viviendas, análisis sistemático, artículo de re
 
 ### Tabla de Contenido
 
-| Titulo | Cita |
+| Titulo | Autores |
 | ------ | ---- |
 | Análisis de comparación con la metodología BIM en proyecto de vivienda multifamiliar en el municipio de Acacias – Meta. | Amaya Beltran & Sierra Castiblanco 2021 |
 | Análisis de la Implementación de Metodología BIM en Edificaciones de Baja Complejidad en Colombia, Mediante IDM y Mapas de Procesos. | Sánchez Moreno et al 2020 |
